@@ -1,4 +1,4 @@
 
-dataset/abril2018.csv
-dataset/agosto2019.csv
 *.csv
+*.txt
+*.xlsx
